@@ -1,4 +1,5 @@
 # Youtube-Trending-Data-Analysis
 
-Partner project for UC Davis Data Analytics 
+## Exploratory Data Analysis Project for UC Davis Data Analytics Bootcamp
+
 
